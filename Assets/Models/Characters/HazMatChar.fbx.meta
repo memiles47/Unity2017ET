@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 73500772e04922149ae518cf25e2baf3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Goggles
+    100002: Hazmat_Worker
+    100004: //RootNode
+    100006: HazMatHead
+    100008: HazMatHips
+    100010: HazMatLeftArm
+    100012: HazMatLeftFoot
+    100014: HazMatLeftForeArm
+    100016: HazMatLeftHand
+    100018: HazMatLeftHandMiddle4
+    100020: HazMatLeftLeg
+    100022: HazMatLeftShoulder
+    100024: HazMatLeftToe1
+    100026: HazMatLeftToe2
+    100028: HazMatLeftUpLeg
+    100030: HazMatNeck
+    100032: HazMatRightArm
+    100034: HazMatRightFoot
+    100036: HazMatRightForeArm
+    100038: HazMatRightHand
+    100040: HazMatRightHandMiddle4
+    100042: HazMatRightLeg
+    100044: HazMatRightShoulder
+    100046: HazMatRightToe1
+    100048: HazMatRightToe2
+    100050: HazMatRightUpLeg
+    100052: HazMatSkeleton
+    100054: HazMatSpine
+    100056: HazMatSpine1
+    100058: HazMatSpine2
+    400000: Goggles
+    400002: Hazmat_Worker
+    400004: //RootNode
+    400006: HazMatHead
+    400008: HazMatHips
+    400010: HazMatLeftArm
+    400012: HazMatLeftFoot
+    400014: HazMatLeftForeArm
+    400016: HazMatLeftHand
+    400018: HazMatLeftHandMiddle4
+    400020: HazMatLeftLeg
+    400022: HazMatLeftShoulder
+    400024: HazMatLeftToe1
+    400026: HazMatLeftToe2
+    400028: HazMatLeftUpLeg
+    400030: HazMatNeck
+    400032: HazMatRightArm
+    400034: HazMatRightFoot
+    400036: HazMatRightForeArm
+    400038: HazMatRightHand
+    400040: HazMatRightHandMiddle4
+    400042: HazMatRightLeg
+    400044: HazMatRightShoulder
+    400046: HazMatRightToe1
+    400048: HazMatRightToe2
+    400050: HazMatRightUpLeg
+    400052: HazMatSkeleton
+    400054: HazMatSpine
+    400056: HazMatSpine1
+    400058: HazMatSpine2
+    2100000: Hazmat_Worker_Clothes_body
+    2100002: Hazmat_Worker_Clothes_feet
+    2100004: Hazmat_Worker_Clothes_hand
+    2100006: Hazmat_Worker_Clothes_hood
+    2100008: Hazmat_Worker_Vent
+    2100010: Hazmat_Worker_Mask
+    2100012: HazGoggs
+    2300000: Goggles
+    3300000: Goggles
+    4300000: Hazmat_Worker
+    4300002: Goggles
+    9500000: //RootNode
+    13700000: Hazmat_Worker
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
